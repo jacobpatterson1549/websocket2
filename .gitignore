@@ -1,0 +1,13 @@
+# build
+target/
+
+# ide files
+
+# VS Code
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
