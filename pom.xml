@@ -135,7 +135,7 @@
 			<!-- javax.websocket-->
 			<groupId>org.apache.tomcat.embed</groupId>
 			<artifactId>tomcat-embed-websocket</artifactId>
-			<version>9.0.31</version>
+			<version>9.0.86</version>
 			<scope>runtime</scope>
 		</dependency>
 		<!--		<dependency>-->
